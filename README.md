@@ -1,25 +1,23 @@
 <h1 align="center">Hi there 👋, I'm Omer H!</h1>
 <h3 align="center">A passionate full-stack developer from Canada.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oh20-cj" alt="oh20-cj" /></a> </p>
-
 - 🔭 I’m currently working on **school projects.**
 
 - 🤝 I’m looking for help with **people's needs.**
 
 - 🌱 I’m currently learning **backend development.**
 
-- 👨‍💻 All of my projects are available on [artstation.com](artstation.com)
+- 👨‍💻 All of my projects are available on Artstation.
 
-- 📝 I regularly write articles on [devforum.roblox.com](devforum.roblox.com)
+- 📝 I regularly write articles on the Roblox DevForum.
 
 - 📫 How to reach me **ohass11@ocdsb.ca**
 
-- 📄 Know about my experiences [/in/sy-omerhassan](/in/sy-omerhassan)
+- 📄 Know about my experiences on LinkedIn.
 
-- ⚡ Fun fact **I have birds!**
+- ⚡ Fun fact **I have budgies!**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with Me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sy-omerhassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sy-omerhassan" height="30" width="40" /></a>
 </p>
